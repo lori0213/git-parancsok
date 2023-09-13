@@ -1,3 +1,12 @@
+
+git init (új repository)
+git status (változások listázása)
+git commit- m (változások leírása)
+git branch
+git push (git végződésű fájl) 
+git pull
+git fetch
+
 Alap parancsok
 Init
 Új git repository létrehozása
@@ -168,3 +177,4 @@ push
 Lokális változások feltöltése távoli repository-ba
 
 git push <remotename> <branchname>
+
